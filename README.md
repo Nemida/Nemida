@@ -12,7 +12,7 @@
 
 
 ### Glad to see you here!  
-<h3>I'm a second year undergraduate student who loves technology!</h3>  
+<h4>I'm a second year undergraduate student who loves technology!</h4>  
   
 
 <br/>  
