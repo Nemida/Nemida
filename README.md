@@ -20,7 +20,7 @@
 
 ## About Me 
 
-<h4>- 🌱 I’m currently learning Web Development</h4>  
+<h4>- 🌱 I’m currently learning <b></b>Web Development.</b></h4>  
 
 <br/>  
 
