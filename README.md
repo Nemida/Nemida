@@ -18,17 +18,9 @@ I'm a second year undergraduate student who loves technology!
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+## About Me 
 
 - 🌱 I’m currently learning Web Development  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
