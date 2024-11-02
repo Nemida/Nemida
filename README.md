@@ -9,12 +9,6 @@
 </a>  
   
 
-
-
-### Glad to see you here!  
-<h4>I'm a second year undergraduate student who loves technology!</h4>  
-  
-
 <br/>  
 
 
