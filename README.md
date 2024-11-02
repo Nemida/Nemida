@@ -55,9 +55,7 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=Nemida&&style=flat-square)  
-  
 
-<br/>  
 
 
 <br />
