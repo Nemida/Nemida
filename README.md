@@ -14,7 +14,8 @@
 
 ## About Me 
 
-<h3>- 🌱 I’m currently learning <b></b>Web Development.</b></h3>  
+Erm....what the heck!
+
 
 <br/>  
 
