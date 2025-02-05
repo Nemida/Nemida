@@ -1,4 +1,4 @@
-# Hey there, I'm Nemida.  
+# Nemida.  
   
 
 <a href="https://github.com/Nemida" target="_blank">
