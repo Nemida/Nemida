@@ -14,7 +14,7 @@
 
 ## About Me 
 
-Erm. Erm. Erm.
+A newbie learning about the fabrics of the Web!
 
 
 <br/>  
