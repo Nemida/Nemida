@@ -5,5 +5,5 @@ I love <b>systems, open source and competitive programming.</b>
 </p>
 
 <p align="center">
-I build <b>web apps</b> and I am currently transitioning towards <b>backend</b> development</b>.
+I build <b>web apps</b> with an interest in <b>machine learning</b>.
 </p>
