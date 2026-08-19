@@ -1,9 +1,9 @@
-<h3 align="center">Hi! I'm Aditya.</h3>
+<h3 align="center">hi. i'm aditya.</h3>
 
 <p align="center">
-I love <b>systems, open source and competitive programming.</b>
+<b>systems, open source and competitive programming.</b>
 </p>
 
 <p align="center">
-I build <b>web apps</b> and explore <b>machine learning</b> on the side.
+<b>web apps.</b> <b>machine learning on the side.</b>
 </p>
